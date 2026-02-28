@@ -20,7 +20,7 @@ The goal is to build a data-driven framework that helps:
 
 ---
 
-## 🇿🇦 South African Context
+## South African Context
 
 South Africa faces:
 
